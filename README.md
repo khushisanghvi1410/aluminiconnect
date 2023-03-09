@@ -1,5 +1,7 @@
 Guys for Now dont make branches bcoz baadmei merge hone mei bhaot saarei conflicts hotei hai... main mei hi push kartei jaana.. if needed and dont forget to pull.. when you start on a new day.  :)
 
+Quote --> If you don't have a plan towards your goal its just a dream.
+
 
 # Getting Started with Create React App
 
