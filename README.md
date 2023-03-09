@@ -1,3 +1,6 @@
+Guys for Now dont make branches bcoz baadmei merge hone mei bhaot saarei conflicts hotei hai... main mei hi push kartei jaana.. if needed and dont forget to pull.. when you start on a new day.  :)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
